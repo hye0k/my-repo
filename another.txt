@@ -1,2 +1,6 @@
 Another file for Git
+<<<<<<< HEAD
 sdsdsds
+=======
+dkfjrdkfj
+>>>>>>> 577fe6f (Update demo.txt)
